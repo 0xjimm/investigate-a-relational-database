@@ -1,6 +1,6 @@
 # Investigate A Relational Database
 
-Implementing the Sakila DVD Rental sample database for learning and practicing PostgresSQL.  I posed several questions abbout the database and built SQL queries to answer these inquiries.
+Implementing the Sakila DVD Rental sample database for learning and practicing PostgreSQL.  I posed several questions abbout the database and built SQL queries to answer these inquiries.
 
 ## Installation
 
@@ -33,4 +33,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
- MIT
+[MIT](https://github.com/lejimmy/investigate-a-relational-database/blob/master/LICENSE.txt)
