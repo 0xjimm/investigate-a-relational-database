@@ -1,6 +1,6 @@
 # Investigate A Relational Database
 
-Implementing the Sakila DVD Rental sample database for learning and practicing PostgreSQL.  I posed several questions abbout the database and built SQL queries to answer these inquiries.
+Implementing the Sakila DVD Rental sample database for learning and practicing PostgreSQL.  I posed several questions about the database and built SQL queries to answer these inquiries.
 
 ## Installation
 
